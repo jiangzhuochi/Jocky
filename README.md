@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Jocky**, an ordinary university student. After graduating from Renmin University of China and Peking University, I am working as an analyst in China International Capital Corporation Limited (CICC).
+I'm **Jocky**, an ordinary student. After graduating from Renmin University of China and Peking University, I am working as an analyst in China International Capital Corporation Limited (CICC).
 
 My bachelor's degree and master's degree are both in finance. I'm not good at programming, but I'm constantly improving my skills.
 
