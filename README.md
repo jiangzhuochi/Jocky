@@ -4,7 +4,7 @@ I'm **Jocky**, an ordinary wage slave (しゃちく). After graduating from Renm
 
 My bachelor's degree and master's degree are both in finance. I'm not good at programming, but I'm constantly improving my skills.
 
-I use [`Python`](https://www.python.org/) as my main programming language, and I am learning [`Rust`](https://www.rust-lang.org/).
+I use [`Python`](https://www.python.org/) as my main programming language, and I am learning [`Rust`](https://www.rust-lang.org/)、[`Julia`](https://julialang.org/).
 
 Currently, [`VS Code`](https://code.visualstudio.com/) is my most used and favorite editor.
 
