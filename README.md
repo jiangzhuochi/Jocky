@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Jocky**, an ordinary wage slave (しゃちく). After graduating from Renmin University of China (RUC) and Peking University (PKU), I am working as an analyst in China International Capital Corporation Limited (中金公司, CICC).
+I'm **Jocky**, an ordinary wage slave. After graduating from Renmin University of China (RUC) and Peking University (PKU), I am working as an analyst in China International Capital Corporation Limited (CICC).
 
 My bachelor's degree and master's degree are both in finance. I'm not good at programming, but I'm constantly improving my skills.
 
